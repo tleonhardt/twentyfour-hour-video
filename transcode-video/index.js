@@ -44,19 +44,19 @@ exports.handler = async function (event, context) {
             Outputs: [
               {
                 Preset:
-                  "System-[CA]Generic_Hd_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_6Mbps",
+                  "System-Generic_Hd_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_6Mbps",
                 Extension: "mp4",
                 NameModifier: "_16x9_1920x1080p_24Hz_6Mbps",
               },
               {
                 Preset:
-                  "System-[CA]Generic_Hd_Mp4_Avc_Aac_16x9_1280x720p_24Hz_4.5Mbps",
+                  "System-Generic_Hd_Mp4_Avc_Aac_16x9_1280x720p_24Hz_4.5Mbps",
                 Extension: "mp4",
                 NameModifier: "_16x9_1280x720p_24Hz_4.5Mbps",
               },
               {
                 Preset:
-                  "System-[CA]Generic_Sd_Mp4_Avc_Aac_4x3_640x480p_24Hz_1.5Mbps",
+                  "System-Generic_Sd_Mp4_Avc_Aac_4x3_640x480p_24Hz_1.5Mbps",
                 Extension: "mp4",
                 NameModifier: "_4x3_640x480p_24Hz_1.5Mbps",
               },
